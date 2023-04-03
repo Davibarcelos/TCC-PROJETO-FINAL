@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    width: 100px;
+    height: 47px;
+    background-attachment: fixed;
+    background-position: top left;
+    float: left;
+}
+nav{
+    top: 0;
+    background-color: rgb(4, 170, 101); 
+    padding: 10px ;
+    border-top: solid 8px rgb(2, 73, 2);
+    margin-left: 5px;
+}
+
+nav ul{
+text-align: right;
+
+}
+
+nav ul li{
+    display: inline-block;
+    background-color:rgb(44, 187, 127);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav ul li:hover{
+    background-color:rgb(2, 73, 2);
+    transition: 3s;
+    
+
+}
