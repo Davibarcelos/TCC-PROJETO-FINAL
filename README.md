@@ -20,7 +20,7 @@ Com sua maioria sendo composto por Html e Css o projeto consta além de sua apar
 ### Sobre os desenvolvedores✏📄📚
 
 <strong>Davi Cunha Barcelos de Oliveira</strong>
-<p>Bom. Me chamo Davi, tenho 18 anos, sou de Arraial do Cabo mesm, e, esse projeto além de forçar a aprender mais sobre programação e testar meus conhecimentos, testou também, a minha paciência de formas inimagináveis. Porém me proporcionou também bons momentos com meus amigos e, as vezes, uma pequena vontade de brigar com todos eles hahahah. No demais só tenho que parabenizar a nós por todo progresso, agradecer tudo que passei até chegar aqui e todo o processo que sem dúvidas não foi fácil, mas foi suportável. </p>
+<p>Bom. Me chamo Davi, tenho 18 anos, sou de Arraial do Cabo mesmo, e esse projeto além de forçar a aprender mais sobre programação e testar meus conhecimentos, testou, também, a minha paciência de formas inimagináveis. Porém me proporcionou também bons momentos com meus amigos e, as vezes, uma pequena vontade de brigar com todos eles hahahah. No demais só tenho que parabenizar a nós por todo progresso, agradecer tudo que passei até chegar aqui e todo o processo que sem dúvidas não foi fácil, mas foi suportável. </p>
 
 <strong>Gabriel Nunes de Oliveira</strong>
 <p> </p>
