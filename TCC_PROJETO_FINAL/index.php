@@ -24,7 +24,6 @@
             </ul>
           </div>
     </header>
-    <main>
 
       <main class="slider">
         <div class="seta arrow-left"><i class="fas fa-chevron-circle-left"></i></div>
@@ -41,17 +40,9 @@
           <div class="botao"> <i class="far fa-circle"></i> </div>
       
         </div> 
-      </main> 
        
-     Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis corporis quae, voluptate quod, ut suscipit sunt laborum ullam officiis obcaecati reiciendis nemo autem maxime molestiae porro optio inventore, culpa cumque!locale_filter_matches
-     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima cum minus repellat id facilis labore adipisci quos, eligendi laboriosam facere quam hic aliquid. Ratione, libero voluptate ipsa atque ipsam molestias!locale_get_region
-     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate eligendi impedit cum laboriosam harum? Repellat blanditiis natus doloribus enim temporibus assumenda sapiente ut consequuntur a, in at sed velit eos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias magni hic quasi sint ipsam veritatis voluptas totam voluptates, nemo quo voluptatibus. Accusamus ea explicabo magni vero maxime officia corrupti repellat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias tempore non sunt cumque commodi laudantium nam exercitationem accusamus, eius, fugit modi! Pariatur nam explicabo voluptatum dolor. Illum explicabo dolor laborum? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione eaque minus dignissimos earum. Cumque nesciunt autem, exercitationem perspiciatis tempore et ab mollitia earum nemo dolor sapiente iure optio, quibusdam perferendis.
-    
-        
-
       <script src="carro.js"></script>
         </main>
-        <footer>
         <footer class="main_footer container2">
             
             <div class="content">
@@ -62,11 +53,10 @@
                     
                     <ul>
                     
-                      <li><a href="index.html">Página Inicial</a></li>
+                      <li><a href="index.php">Página Inicial</a></li>
                       <li><a href="mailto:Adotenaoabandoneifrj">Fale Conosco <i class="fa-solid fa-paper-plane"></i></a></li>
                       <li><a href="(parte escrita)" >Parte Escrita do TCC</a></li>
                       
-                    
                     </ul>
                 
                 </div><!--Col Footer 1-->        
@@ -74,11 +64,12 @@
                 <div class="colfooter">
                    
                    <h4 class="titleFooter">Contato</h4>
-                   <p><i class="fa-solid fa-envelope"></i> Adotenaoabandoneifrj.com</p>
+             <p><i class="fa-solid fa-envelope"></i> gabrielnunesoliveira01@gmail.com</p>
+             <p><i class="fa-solid fa-envelope"></i> cunha.davi503@gmail.com</p>
+             <p><i class="fa-solid fa-envelope"></i> sarabento935@gmail.com </p>
+             <p><i class="fa-solid fa-envelope"></i> Adotenaoabandoneifrj.com</p>
+    
 
-                   <p><i class="fa-solid fa-envelope"></i> gabrielnunesoliveira01@gmail.com</p>
-                   <p><i class="fa-solid fa-envelope"></i> cunha.davi503@gmail.com</p>
-                   <p><i class="fa-solid fa-envelope"></i> sarabento935@gmail.com </p>
                 
                 </div><!--Col Footer 2-->
                 
@@ -100,8 +91,7 @@
             
             <div class="main_footer_copy">
                 
-                <p class="m-b-footer"> 2023, Trabalho de Conclusão de Curso - Instituto Federal do Rio de Janeiro</p> 
-                <p>A&NA - Adote e Não Abandone</p>
+            <p class="m-b-footer"> 2023, Trabalho de Conclusão de Curso - Instituto Federal do Rio de Janeiro - A&NA - Adote e Não Abandone</p> 
             
             </div>
         </footer>

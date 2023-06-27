@@ -1,0 +1,66 @@
+﻿https://www.apachefriends.org/pt_br/index.html
+
+https://brunocosta.dev/apache-php-mysql-windows/
+
+php com mysql cadastrar e listar produto
+
+
+
+
+# Olá, me chamo Davi Barcelos
+## Sobre mim
+
+Sou estudante do <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fifrj.edu.br%2Farraialdocabo%3Ffbclid%3DIwAR3YsrjZjvQgSTjlQbEmuA9rCoZPyfv6wsgJyL64SMWj23vgCX4K4mAGvvw&h=AT1mczKF67cDpzulJfOEAL-ZuvQvPC5UBiClpWy3sLHjxvgLOjgDt6ZB5TpkV7VuEgE1Ub_scaENLHmYsjLXL-t3s8o6qOUcqqU1LWVQnodVtimSifluRu_Nz8oZyhvjDpG01w">Instituto Federal de tecnologia e Ciência do Rio de Janeiro</a>, estou me cursando informática e tenho conhecimento das siguintes tecnologias:
+
+### Principais Linguagens e Tecnologias
+<div style="display: inline_block">
+  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</div>
+
+### Nível de conhecimento:
+- HTML/CSS (Alto) 
+- MySQL (baixo)
+- Java (Médio)
+- JavaScript (Médio)
+- PHP (Médio)
+
+
+
+_____________________________________________________________SOBRE O TCC_________________________________________________________________________
+
+-CRIAR UM EMAIL PARA O A&NA
+
+NO SITE:
+
+- CRIAR DUAS PAGINAS PARA ANIMAIS PERDIDOS E UMA DE ANIMAIS PARA ADOÇÃO QUE SERÁ ACESSADA POR MEIO DE UM SUBMENU////FEITO
+- NAS DUAS PAGINAS COLOCAR UMA IMAGEM LADO-A-LADO PARA ESTILIZAÇÃO 
+- PAGINA INICIAL COLOCAR OS ANIMAIS PERDIDOS RECEM CADASTRADOS 
+- CARROSSEL CONTENDO LINKS PARA A PAGINA DE ONGS E DE ANIMAIS PARA A ADOÇÃO////FEITO 
+- RESOLVER O PROBLEMA DO FOOTER 
+- CRIAR UM SUBMENU RESPONSIVO COM HAMBURGUER
+- CRIAR MAIS MATERIAIS EMBELEZADORES PARA O SITE ATRAVÉS DO CANVA////FEITO 
+
+-----------------CRIAR MAIS CONTEUDO PARA O SITE PARA A PAGINA PRINCIPAL--------------------------------------------------
+
+
+NO BANCO DE DADOS:
+
+- DEFINIR UMA TABELA PARA ANIMAIS PERDIDOS E UMA PARA ANIMAIS PARA A ADOÇÃO 
+- DEFINIR TODAS AS COLUNAS DE AMBAS AS TABELAS 
+- RESOLVER O PROBLEMA DAS ESPECIES(PERMITIR APENAS A SELEÇÃO DE 3 OPÇÕES PARA O USUARIO ESCOLHER)
+- RECOLHER AS INFORMAÇÕES DE TODOS OS CAMPOS DOS FORMULARIOS
+- APRENDER A REESCREVER AS INFORMAÇÕES COLETADAS NO SITE
+
+
+Qconcursos 
+svgrepo
+
+
+
+
+
+
+

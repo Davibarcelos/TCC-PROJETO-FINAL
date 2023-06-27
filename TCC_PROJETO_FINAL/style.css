@@ -11,117 +11,138 @@
   background-color:#059767; 
   color:#fff; 
   font-size:1em; 
+  background-position: bottom;
+  bottom: 0;
 }
+
 .main_footer .content { 
   float:left; 
   width:80%; 
   margin:0 10%; 
   padding: 5em 0; 
 }
+
 .container2 { 
   float:left; 
   width:100%; 
 }
+
 .colfooter { 
   width:100%; 
   height:auto; 
   float:left; 
   margin-bottom:2em;
-  }
-  .colfooter ul{ 
-    width:100%; 
-    float:left; 
-  }
-  .colfooter ul li{ 
-    padding:0.2em 0em; 
-  }
-  .colfooter ul li a{ 
-    text-decoration:none; 
-    color:#ffffff; 
-    font-size:1em; 
-    transition:0.2s; 
-  }
-  .colfooter ul li a i{ 
-    font-size:0.5em; 
-  }
-  .colfooter ul li a:hover{ 
-    color:#f3a91f; 
-  }
-  .colfooter .titleFooter{ 
+}
+
+.colfooter ul{ 
+  width:100%; 
+  float:left; 
+}
+
+.colfooter ul li{ 
+  padding:0.2em 0em; 
+}
+
+.colfooter ul li a{ 
+  text-decoration:none; 
+  color:#ffffff; 
+  font-size:1em; 
+  transition:0.2s; 
+}
+
+.colfooter ul li a i{ 
+  font-size:0.5em; 
+}
+
+.colfooter ul li a:hover{ 
+  color:#f3a91f; 
+}
+
+.colfooter .titleFooter{ 
   font-family: 'Lato', sans-serif; 
   font-size:1.3em; 
   color:#ffffff; 
   padding-bottom: 0.5em; 
   margin-bottom:0.5em; 
   border-bottom: 1px #27b385 solid;
-  }
-  .colfooter p  { 
+}
+
+.colfooter p  { 
   font-family: 'Lato', sans-serif; 
   color:#ffffff; 
   font-size:1em; 
   height:25px; 
-  }
-  .colfooter .redesocial { 
-    
-    color: #ffffff;
-    float: left;
-    text-decoration: none;
-    display: block;
-    width: 100%;
-    margin-bottom: 10px;
-    transition:0.2s;
-  }
-  .colfooter .redesocial:hover { 
-    
-    color: #f3a91f;
-    transition:0.2s;
-  }
-  .main_footer_copy{ 
-    background-color:#036b49; 
-    width:100%; 
-    float:left; 
-    font-family: 'Lato', sans-serif; 
-    text-align:center; 
-    padding:1.5em 0em; 
-  }
-  .main_footer_copy p { 
-    font-size:1em; 
-    color:#ffffff; 
-    height:20px; 
-  }
-  .main_footer_copy .m-b-footer{ 
-    margin-bottom:0.5em; 
-  }
+}
+
+.colfooter .redesocial { 
+  color: #ffffff;
+  float: left;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  transition:0.2s;
+}
+
+.colfooter .redesocial:hover { 
+  color: #f3a91f;
+  transition:0.2s;
+}
+
+.main_footer_copy{ 
+  background-color:#036b49; 
+  width:100%; 
+  float:left; 
+  font-family: 'Lato', sans-serif; 
+  text-align:center; 
+  padding:1.5em 0em; 
+}
+
+.main_footer_copy p { 
+  font-size:1em; 
+  color:#ffffff; 
+  height:20px; 
+}
+
+.main_footer_copy .m-b-footer{ 
+  margin-bottom:0.5em; 
+}
   
-  /*Responsivo*/
-  /*768PX BREAKPOINT*/
-  @media (min-width:48em){
-  .colfooter{ 
-    width:30%; 
-    margin-right:5%; 
-    margin-bottom:0;
-  }
-  .colfooter:nth-of-type(3n+0){ 
-    margin-right:0; 
-    border-right:0;
-  }
-  .footer-arrow svg {
-    height:50px; 
-  }
-  }
-  /*960PX BREAKPOINT*/
-  @media (min-width:60em){
-  .footer-arrow svg { 
-    height:70px;
-  }
-  }
-  /*1280PX BREAKPOINT*/
-  @media (min-width:80em){
-  .footer-arrow svg {
-    height:90px; 
-  }
-  
-  }
+/*Responsivo*/
+/*768PX BREAKPOINT*/
+@media (min-width:48em){
+
+.colfooter{ 
+  width:30%; 
+  margin-right:5%; 
+  margin-bottom:0;
+}
+
+.colfooter:nth-of-type(3n+0){ 
+  margin-right:0; 
+  border-right:0;
+}
+
+.footer-arrow svg {
+  height:50px; 
+}
+
+}
+/*960PX BREAKPOINT*/
+@media (min-width:60em){
+
+.footer-arrow svg { 
+  height:70px;
+}
+
+}
+/*1280PX BREAKPOINT*/
+@media (min-width:80em){
+.footer-arrow svg {
+  height:90px; 
+}
+
+}
 
 /*menu*/
 
@@ -198,7 +219,7 @@
 
 .slider {
   width: 100vw;
-  height: 580px;
+  height: 400px;
   position: relative;
   background: #242424;
   overflow: hidden;
@@ -273,29 +294,131 @@
   display: none;
 }
 
-
-
-
-
-h1 {
-    text-align: center;
-    text-transform: uppercase;
-    color: #4CAF50;
-  }
-  
-  
-  /*Página principal*/
-
-  h2{
-    animation-duration: 3s;
-    animation-name: slidein;
-    margin-left: 1%;
-    font-size: 165%;
-    text-align: center;
-    margin-top: 10%;
-    color: #4CAF50;
+@keyframes fade {
+  from {
+    opacity: 0.1;
   }
 
+  to {
+    opacity: 1;
+  }
+}
+
+@media(max-width:1100px) {
+  .card {
+    width: 350px;
+    margin: 2% 1.75%;
+  }
+}
+
+@media(max-width:1250px) {
+  .slider {
+    height: 450px;
+  }
+
+  .title-princ {
+    text-align: center;
+  }
+}
+
+@media (max-width: 920px) {
+  .slider {
+    height: 350px;
+  }
+
+  .download {
+    text-align: center;
+    margin: 20px;
+  }
+
+  .download button {
+    width: 280px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    background-color: #d25751;
+    border: none;
+    transition: .5s;
+  }
+
+
+}
+
+@media (max-width:800px) {
+  .card {
+    width: 300px;
+    margin: .75% .5%;
+  }
+
+  .slider {
+    height: 250px
+  }
+}
+
+@media (max-width:650px) {
+  .card {
+    width: 70%;
+
+  }
+
+  .title-princ {
+    margin: 5em 0 1em 0em;
+  }
+
+  .slider {
+    height: 200px;
+
+  }
+}
+
+@media (max-width:450px) {
+  .download button {
+    width: 200px;
+    height: 30px;
+    border-radius: 70px;
+  }
+
+  .card {
+    width: 85%;
+    margin: 1.3% auto;
+  }
+
+  .title-down {
+    font-size: large;
+  }
+
+  .slider {
+
+    height: 180px;
+  }
+}
+
+@media (max-width:350px) {
+  .slider {
+
+    height: 140px;
+  }
+
+}
+  
+/*Página principal*/
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+h2{
+  animation-duration: 3s;
+  animation-name: slidein;
+  margin-left: 1%;
+  font-size: 165%;
+  text-align: center;
+  margin-top: 10%;
+  color: #4CAF50;
+}
 
 /*Página adote*/
 
@@ -313,10 +436,6 @@ h1 {
   background-color: rgb(226, 161, 62);
   align-items: center;
 }
-/*
-.banneradote a {
-}
-*/
 
 .padote{
   border-radius: 0px 0px 30px 30px ;
@@ -380,8 +499,14 @@ h1 {
 
 
 /*Página ong*/
+
 .ongs{                  
   background: #FFFFFF url("imagens/fundoongs2.jpg");
+}
+
+#conteudo{
+  cursor: pointer;
+
 }
 
 #video_ong{
@@ -439,12 +564,6 @@ h1 {
   font-size: 15pt;
 }
 
-.container button:hover{
-  transition: all 0.9s;
-    transform: scale(1.1); 
-    background-color: #3c7e3e;
-}
-
 .lartemporario{
   border-radius: 1%;
   background-color: rgb(226, 161, 62);
@@ -471,7 +590,6 @@ h1 {
   text-align: justify;
   padding-top: 2%;
   padding-bottom: 1%;
-
 }
 
 .pinfo{
@@ -502,6 +620,21 @@ h1 {
 
 /*Página de cadastro de adoçao e perdido */
 
+.background-adote{
+  background-image: url(./imagens/img-fundo-cadastro-adoção.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+
+.container {
+  width: 50%;
+  display: inline-block;
+  position: sticky;
+  background: linear-gradient(285deg, black, transparent);
+  left: 100%;
+}
 
 input{
   display: block;
@@ -509,11 +642,11 @@ input{
   width: 400px;
   margin: 10px;
   border-radius: 30px;
-  border: 1px solid black;
+  border: 1px solid rgb(255, 255, 255);
   font-size: 16pt;
   padding: 10px 20px;
   background-color: rgba(255, 255, 255, 0.01);
-  color: black;
+  color: rgb(255, 255, 255);
   outline: none;
   
 }
@@ -527,6 +660,7 @@ input::placeholder{
   text-align: left;
 }
 
+
 select{
   display: block;
   text-align: left;
@@ -534,47 +668,49 @@ select{
   width: 400px;
   margin: 10px;
   border-radius: 30px;
-  border: 1px solid black;
+  border: 1px solid rgb(255, 251, 251);
   font-size: 16pt;
   padding: 10px 20px;
   background-color: rgba(255, 255, 255, 0.01);
-  color: black;
+  color: rgb(254, 254, 254);
   outline: none;
 }
 
+option{
+  color: #ffffff;
+  background-color: #242424;
+}
 
 
 label{
   font-size: 16pt;
   padding-left: 15px;
+  margin: 7px 0px 7px 0px
 }
 
 
 .corpo-form{
-
-width: 420px;
-margin: 150px auto 0px auto;
-display: flex;
-flex-direction: column;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.corpo-form-cad{
   width: 420px;
-  margin: 80px auto 0px auto;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-content: center;
-  justify-content: center;
-  align-items: center;
+  margin: 0px 20pc 30px;
 }
 
+.corpo-form-cad {
+  width: 420px;
+  margin: 0px 20pc 30px;
+}
 
-
+.cadas {
+  width: 100%;
+  margin: 90px auto 40px auto;
+  display: flex;
+  color: rgb(255, 255, 255);
+  border-radius: 30px;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 .corpo-form h1, .corpo-form-cad h1{
   text-align: center;
@@ -593,17 +729,6 @@ input[type="submit"]{
   border: none;
   cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 

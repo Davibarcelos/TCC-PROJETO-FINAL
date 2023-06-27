@@ -34,7 +34,7 @@
                     
                     <ul>
                     
-                      <li><a href="index.html">Página Inicial</a></li>
+                      <li><a href="index.php">Página Inicial</a></li>
                       <li><a href="mailto:Adotenaoabandoneifrj">Fale Conosco <i class="fa-solid fa-paper-plane"></i></a></li>
                       <li><a href="(parte escrita)" >Parte Escrita do TCC</a></li>
                       
@@ -46,11 +46,11 @@
                 <div class="colfooter">
                    
                    <h4 class="titleFooter">Contato</h4>
-                   <p><i class="fa-solid fa-envelope"></i> Adotenaoabandoneifrj.com</p>
-
                    <p><i class="fa-solid fa-envelope"></i> gabrielnunesoliveira01@gmail.com</p>
-                   <p><i class="fa-solid fa-envelope"></i> cunha.davi503@gmail.com</p>
-                   <p><i class="fa-solid fa-envelope"></i> sarabento935@gmail.com </p>
+             <p><i class="fa-solid fa-envelope"></i> cunha.davi503@gmail.com</p>
+             <p><i class="fa-solid fa-envelope"></i> sarabento935@gmail.com </p>
+             <p><i class="fa-solid fa-envelope"></i> Adotenaoabandoneifrj.com</p>
+    
                 
                 </div><!--Col Footer 2-->
                 
@@ -72,8 +72,7 @@
             
             <div class="main_footer_copy">
                 
-                <p class="m-b-footer"> 2023, Trabalho de Conclusão de Curso - Instituto Federal do Rio de Janeiro</p> 
-                <p>A&NA - Adote e Não Abandone</p>
+            <p class="m-b-footer"> 2023, Trabalho de Conclusão de Curso - Instituto Federal do Rio de Janeiro - A&NA - Adote e Não Abandone</p> 
             
             </div>
         </footer>
