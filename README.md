@@ -23,7 +23,7 @@ Com sua maioria sendo composto por Html e Css o projeto consta além de sua apar
 <p>Bom. Me chamo Davi, tenho 18 anos, sou de Arraial do Cabo mesmo, e esse projeto além de forçar a aprender mais sobre programação e testar meus conhecimentos, testou, também, a minha paciência de formas inimagináveis. Porém me proporcionou também bons momentos com meus amigos e, as vezes, uma pequena vontade de brigar com todos eles hahahah. No demais só tenho que parabenizar a nós por todo progresso, agradecer tudo que passei até chegar aqui e todo o processo que sem dúvidas não foi fácil, mas foi suportável. </p>
 
 <strong>Gabriel Nunes de Oliveira</strong>
-<p> </p>
+<p>Hello Hello. Eu sou Gabriel Nunes, tenho 18 anos, sou de São Pedro. Sobre o projeto eu fiquei extremamente feliz em saber que meus amigos toparam ideia de prosseguir a ideia do projeto que surgiu no quarto período, em fazer um site de ajuda  a animais. Apesar de todas as dificuldades, brigas, estresses e discussões foi extremamente gratificante ver o resultado e o quanto o nosso esforço valeu a pena.</p>
 
 <strong>Sara Bento de Assis</strong>
 <p> </p>
